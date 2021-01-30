@@ -6,6 +6,7 @@
 # PREVIEW
 - https://imgur.com/wi1uSsI
 - https://imgur.com/jIb8v7w
+- https://imgur.com/1axXnkr
 
 # OTHER OUR SCRIPTS
 - https://sqz.tebex.io
